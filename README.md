@@ -5,4 +5,4 @@ A piece of code which can solve a word search. The program should take in a 2D l
 and an array of words to find. Then it should search the word search for each word returning a 
 dictionary of whether or not the word was found.
 
-- I did diagonal search.
+- I did diagonal search so I chose the option 1.
